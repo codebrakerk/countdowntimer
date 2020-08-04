@@ -1,1 +1,1 @@
-https://codebrakerk.github.io/countdowntimer/p
+https://codebrakerk.github.io/countdowntimer/
